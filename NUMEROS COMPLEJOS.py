@@ -1,0 +1,8 @@
+print("Numero complejo 1")
+numero_complejo1=complex(float(input("Introduce parte real: ")), float(input("Introduce parte imaginaria: ")))
+print("Numero complejo 2")
+numero_complejo2=complex(float(input("Introduce parte real: ")), float(input("Introduce parte imaginaria: ")))
+print("La suma de los numeros complejos es: ", numero_complejo1+numero_complejo2)
+print("La resta de los numeros complejos es: ", numero_complejo1-numero_complejo2)
+print("La multiplicación de los numeros complejos es: ", numero_complejo1*numero_complejo2)
+print("La división de los numeros complejos es: ", numero_complejo1/numero_complejo2)
